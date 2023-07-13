@@ -1,0 +1,10 @@
+Q.1 What is a Media Query in CSS, and what is its purpose?
+Answer: media quary is a css fature that you can give the style to an elements accoding to his size and its healp us to make a responsive web page
+Q.2 How do you define a media query in CSS?
+Answer: for using media quary you need to use @media rule in it execute after changing the size of web page
+Q.3 Explain the concept of Breakpoints in Responsive Web Design and How They are used in Media Queries.
+Answer: In responsive web design a breakpoint is the point at which a website’s content and design will adapt in a certain way in order to provide the best possible user experience and Essentially, breakpoints are pixel values that a developer/designer can define in CSS 
+Q.4 What is the purpose of using Media Queries for Print Media?
+Answer:The purpose of using media queries for print media is to apply different styles to a document when it is printed and This allows you to create a print friendly version of your website that is optimized for printing.
+Q.5 What is the purpose of the orientation media feature?
+Answer:The orientation CSS media feature can be used to test the orientation of the viewport and It is used to switch between a row layout and a column layout 1. Note that this feature does not correspond to device orientation 

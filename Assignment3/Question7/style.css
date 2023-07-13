@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #262626;
+    padding: 10px;
+}
+.galary{
+    columns: 3;
+    column-gap: 16px;
+}
+.grid-images{
+    display: inline-block;
+    margin-bottom: 2px;
+    position: relative;
+}
+@media (max-width:1042px){
+    .galary{
+        columns: 2;
+    }
+}
+@media (max-width:420px){
+    .galary{
+        columns: 1;
+    }
+}
